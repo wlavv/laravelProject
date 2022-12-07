@@ -2,5 +2,5 @@ projectKey=laravelProject
 serverUrl=http://localhost:9000
 serverVersion=9.7.1.62043
 dashboardUrl=http://localhost:9000/dashboard?id=laravelProject
-ceTaskId=AYTuE1f4F3-qFPudMDj4
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYTuE1f4F3-qFPudMDj4
+ceTaskId=AYTuFNR_F3-qFPudMDj5
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYTuFNR_F3-qFPudMDj5
